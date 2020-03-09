@@ -17,3 +17,5 @@ If you are using RStudio on your own machine make sure to download ANTH 641 - We
 Once you've forked this repo, set up your own binder using your new GitHub repo and replace the link below: 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kgarstki/Working-with-R/master)
+
+### I used my own downloaded R studio version not the Jupyter or a UW owned computer.  I think it winds up being easier if I have the studio on my own computer to leave open to come back to or have totally prepared to access anywhere I need.
